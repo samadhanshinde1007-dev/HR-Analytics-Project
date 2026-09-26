@@ -71,10 +71,6 @@ An interactive, data-driven HR analytics solution designed to evaluate workforce
 
 ## 6. Screenshots / Demos
 
-Show what the dashboard looks like. - `![Alt_text](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
-Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
 ### Interactive HR Analytics Dashboard
 
-`![HR Analytics Dashboard](https://github.com/your-username/hr-analytics-powerbi/assets/hr_dashboard.png)`
+![HR Analytics Dashboard](https://github.com/samadhanshinde1007-dev/HR-Analytics-Project/blob/main/HR%20Analytics%20Dashboard%20Overvew.png)
